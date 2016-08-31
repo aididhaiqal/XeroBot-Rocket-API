@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pokémon Go Client API
 ## This repository is a fork updated of [FeroxRev](https://github.com/NecronomiconCoding/NecroBot-Rocket-API)
 
@@ -53,3 +54,6 @@ This code is in no way affiliated with, authorized, maintained, sponsored or end
 ## Credits
 
 Credits to AeonLucid, johnduhart and for making public proto available. Saved a lot of work!
+=======
+# XeroBot-Rocket-API
+>>>>>>> 4cf1ac6eae840623aa5e8c28833a25804de4d5ec
